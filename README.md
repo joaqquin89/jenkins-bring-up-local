@@ -1,2 +1,3 @@
 # jenkins-bring-up-local
-bring up jenkins in local enviroment
+
+this proyect permit bring up jenkins in local enviroment (localhost) using docker compose 
